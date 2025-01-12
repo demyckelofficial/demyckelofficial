@@ -53,36 +53,37 @@ Decision-Making
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab                            |
 
 ## Tools
-1. SIEM & Log Management
-<img src="https://www.splunk.com/content/dam/splunk/images/brand/splunk-logo.svg" alt="Splunk Logo" width="50">
-2. Endpoint Detection & Response (EDR)
-<img src="https://www.crowdstrike.com/wp-content/uploads/2022/09/crowdstrike-logo-red-white.svg" alt="CrowdStrike Logo" width="50">
-<img src="https://www.fortinet.com/content/dam/fortinet/assets/global/about/logo/fortinet-logo.svg" alt="Fortinet Logo" width="50">
-3. Email Security
-<img src="https://www.proofpoint.com/wp-content/uploads/2022/02/Proofpoint-Logo-Black-RGB.svg" alt="Proofpoint Logo" width="50">
-
-### Endpoint
+<h3>Network</h3>
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+<h3>Endpoint Detection & Response (EDR)</h3>
+<div>
+    <img src="https://img.shields.io/badge/-CrowdStrike-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet-0078D7?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+</div>
+
+<h3>Email Security</h3>
+<div>
+    <img src="https://img.shields.io/badge/-Proofpoint-00548B?&style=for-the-badge&logoColor=white" />
+</div>
+
+<h3>SIEM & Log Management</h3>
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-
-* **CompTIA Security+** 
-    [<img src="https://certification.comptia.org/sites/default/files/styles/comptia_logo_white_bg/public/comptia_logo_white_bg.png?itok=9f_n-tR3" alt="CompTIA Security+ Logo" width="50">](https://certification.comptia.org/certifications/security-plus)
-
-* **Certified Information Systems Auditor (CISA)**
-    [<img src="https://www.isaca.org/global/images/logos/isaca_logo_rgb.png" alt="ISACA Logo" width="50">](https://www.isaca.org/資格証明/cisa) 
-
-* **CompTIA A+**
-    [<img src="https://certification.comptia.org/sites/default/files/styles/comptia_logo_white_bg/public/comptia_logo_white_bg.png?itok=9f_n-tR3" alt="CompTIA Logo" width="50">](https://certification.comptia.org/certifications/a) 
-
-* **Google AI Essentials**
-    [<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Logo" width="50">](https://cloud.google.com/certification/paths/google-ai) 
-
-* **CompTIA CySA+**
-    [<img src="https://certification.comptia.org/sites/default/files/styles/comptia_logo_white_bg/public/comptia_logo_white_bg.png?itok=9f_n-tR3" alt="CompTIA Logo" width="50">](https://partners.comptia.org/certifications/cybersecurity-analyst)
+<div>
+    <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Fundamentals%20of%20Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Analytics-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CISA-006400?&style=for-the-badge&logoColor=white" />
+</div>
 
 ## Projects
 - Detection Lab
